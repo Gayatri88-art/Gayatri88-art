@@ -1,8 +1,15 @@
 
 <div align="center">
-  <a href="#">
-    <img src="github.png" >
-  </a>
+<a href="#">
+    <img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9660.jpg?w=826" 
+         width="200" 
+         height="200" 
+         style="border-radius: 50%; object-fit: cover;" 
+         alt="Circular Image">
+</a>
+
+
+
 </div>
 
 <h1 align="center">Hey 👋, I'm Gayatri</h1>
