@@ -1,11 +1,8 @@
 
 <div align="center">
 <a href="#">
-    <img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9660.jpg?w=826" 
-         width="200" 
-         height="200" 
-         style="border-radius: 50%; object-fit: cover;" 
-         alt="Circular Image">
+    <img  width="4000" height="400" src="https://png.pngtree.com/thumb_back/fh260/background/20231002/pngtree-illustration-of-a-3d-render-showcasing-a-concept-of-web-ui-image_13584942.png" 
+         
 </a>
 
 
@@ -15,8 +12,10 @@
 <h1 align="center">Hey 👋, I'm Gayatri</h1>
 <div align="center" style="text-align: center;">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=FFFFFF&width=700&lines=I'm+a+driven+Computer+Engineering+student+with+a+passion+for+coding,+problem-solving,+and+innovation." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=FFFFFF&width=1000&lines=I'm+a+driven+Computer+Engineering+student;with+a+passion+for+coding,+problem-solving,+and+innovation." alt="Typing SVG" />
 </a>
+
+
 
 </div>
 
